@@ -1,0 +1,12 @@
+Version Control is the principle of changing, 
+updating, and pushing files while keeping a
+record of them over time. Using Git which is a 
+tool on the computer, it allows you to track all
+changes over time. Through GitHub you can push these
+changes to a server so you and others can access it
+and also see the changes. An example could be if I 
+was working on parts of a project in a dev team that
+someone else on the team is going to continue work on
+it gets pushed to GitHub where they can access it.
+Some examples of git commands are: "git add",
+"git commit" and "git push".
